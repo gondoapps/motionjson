@@ -1,0 +1,39 @@
+{
+
+  "GuideData": {
+
+    "AdsController":
+
+      {
+
+        "NetworkAds": "applovin",
+
+         
+
+        "BannerAdmob": "ca-app-pub-4646368597929380/6285325295",
+
+        "InterstitialAdmob": "ca-app-pub-4646368597929380/2972766241",
+
+        "NativeAdmob": "ca-app-pub-4646368597929380/1416141998",
+
+       
+
+      "applovinbanner": "3897a59120c14db6",
+      "applovininter": "51c2684400868b94",
+ "applovinnativ": "a40e03496e43c3ae"
+		
+
+
+		
+
+      }
+
+
+
+ 
+
+
+
+  }
+
+}
